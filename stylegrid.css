@@ -259,8 +259,6 @@ form label {
 
 .cat img:hover {
   filter: hue-rotate(7deg) contrast(100%) saturate(200%);
-  transform: rotate(360deg);
-
   transition-property: transform;
   transition-duration: 5s;
 }
